@@ -1,5 +1,5 @@
 # Sherlock.js
-Sherlock.js - попытка сделать осинт утилиту на java script.
+Sherlock.js - попытка адаптировать Sherlock на java script
 
 Как запустить?:
 Скачайте node js + код Sherlock.js.
