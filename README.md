@@ -1,17 +1,14 @@
-# Sherlock.js
-Sherlock.js - попытка адаптировать Sherlock на java script
+# SherlockJS
 
-Как запустить?:
-Скачайте node js + код Sherlock.js.
+Поиск юзернейма по 50+ сайтам. Быстрая OSINT-утилита на Node.js.
 
-Для простого "Sherlock username" 
-в консоль вставте это (только на линуксе):
-mkdir -p ~/bin
-cp sherlock.js ~/bin/sherlock
-echo 'export PATH="$HOME/bin:$PATH"' >> ~/.bashrc
-source ~/.bashrc
+## Установка
 
-BY MR.Bulba
+```bash
+git clone https://github.com/bulba2280/sherlockjs
+cd sherlockjs
+
+
 
 
 
